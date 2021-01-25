@@ -1,0 +1,100 @@
+
+* * {
+    margin:0 px;
+    fill:0px;
+    font-family: 'poiret one' , cursiva;
+}
+
+article {
+    pantalla:inline-flex;
+    justify-content: center;
+    align-items: center;
+    border: red solid 2 px ;
+    height:200 px;
+    width:200 px ;
+    margin-left:2%;
+    } 
+
+nav {
+    width:10px;
+    height:60 px ;
+    background-color: red;
+    color: red;   
+}
+
+.section-flex {
+    text-align:center;
+     flex-wrap : wrap;
+}
+.personaje {
+    widt:25%;
+    margin:2%;
+    border: red solid 2px;
+    border-right: red solid 3px ;
+    text-align:auto;
+    border-radius:10px ;  
+}
+.carácter div {
+        screen:bloque;
+        margin:auto;
+}
+
+pie{
+  background-color: red;
+    color: white;
+    height:80px ;
+   text-align:centro;
+}
+
+
+/* figuras*/
+.redondo {
+    margin-left: 50px ;
+    margin-right:50 px ;
+    width: 100 px ;
+    height:100 px ;
+    border-radius:50px;
+    border:5px #0000FF solid;
+    background-color: white;
+}
+
+.triangulo {
+    width : 0 ;
+    border-left:50 px solid;
+    border-right:50 px solid transparente;
+    }
+
+.rombo {
+    width:100px;
+    height:100px ;
+    background-color:fixed;
+    -webkit-transform : rotar 45 degrees;
+    -moz-transform: rotate 45 degrees;
+    -ms-transform: rotate 45 45 degrees ;
+    -o-transform: rotate  45 45 degrees ;
+    -transformar:rotate 45 degrees;
+}
+
+.ovalo {
+    border-radius; : 50 % ;
+    width: 200 px ;
+    height: ;: 100 px ;
+    background-color:orange;
+    }
+
+.triangulo {
+    width:0px;
+    height: 0px ;
+    border left: 100 px solid # 0040FF ;
+    margin left:50 % ;
+    margin right:50 px ;
+ }
+.comegalletas {
+    width:0px;
+     height:0;
+     border right:50 px solid ;
+     border left : 50 px solid color:pink;
+     border-radius:10 %;
+     margin-left:50px ;
+     margin :right:50 px ;
+ }
